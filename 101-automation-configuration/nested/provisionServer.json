@@ -10,7 +10,8 @@
       "type": "string"
     },
     "vmSize": {
-      "type": "string"
+      "type": "string",
+      "defaultValue": "Standard_A1"
     },
     "adminUsername": {
       "type": "string"
